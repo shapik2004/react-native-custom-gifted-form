@@ -1,14 +1,15 @@
 {
-  "name": "react-native-gifted-form",
+  "name": "react-native-custom-gifted-form",
   "version": "0.0.12",
   "description": "Form component for react-native",
   "main": "GiftedForm.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FaridSafi/react-native-gifted-form.git"
+    "url": "git+https://github.com/shapik2004/react-native-custom-gifted-form.git"
   },
   "keywords": [
     "form",
@@ -20,9 +21,9 @@
   "author": "Farid from Safi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FaridSafi/react-native-gifted-form/issues"
+    "url": "https://github.com/shapik2004/react-native-custom-gifted-form/issues"
   },
-  "homepage": "https://github.com/FaridSafi/react-native-gifted-form#readme",
+  "homepage": "https://github.com/shapik2004/react-native-custom-gifted-form#readme",
   "dependencies": {
     "apsl-react-native-button": "^3.0.0",
     "moment": "^2.14.1",
